@@ -1,0 +1,33 @@
+{
+	"name": "godhand1607/wp-rest-api-options",
+	"description": "Extends WordPress WP REST API with new routes pointing to WordPress options",
+	"keywords": [
+		"wordpress"
+	],
+	"homepage": "https://github.com/godhand1607/wp-rest-api-options",
+	"license": "ISC",
+	"authors": [
+		{
+			"name": "Adrian Cando",
+			"email": "hi@adriancando.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"config": {
+		"sort-packages": true
+	},
+	"support": {
+		"issues": "https://github.com/godhand1607/wp-rest-api-options/issues",
+		"source": "https://github.com/godhand1607/wp-rest-api-options"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/godhand1607/wp-rest-api-options"
+		}
+	],
+    "require": {
+		"php": ">=5.4.0",
+		"composer/installers": "~1.0"
+	}
+}
