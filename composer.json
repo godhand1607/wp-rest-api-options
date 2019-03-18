@@ -26,7 +26,7 @@
 			"url": "https://github.com/godhand1607/wp-rest-api-options"
 		}
 	],
-    "require": {
+  "require": {
 		"php": ">=5.4.0",
 		"composer/installers": "~1.0"
 	}
